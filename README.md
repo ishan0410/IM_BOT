@@ -23,5 +23,5 @@ This is a ChatGPT clone built using Flutter, designed as a mobile application to
 
 <img src="assets/images/img1.png" alt="Simulator Screenshot" width="400" height="800"/>
 
-![Alt Text](assets/images/img2.png)
+<img src="assets/images/img2.png" alt="Simulator Screenshot" width="400" height="800"/>
 

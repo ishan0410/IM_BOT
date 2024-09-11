@@ -20,4 +20,5 @@ This is a ChatGPT clone built using Flutter, designed as a mobile application to
 - **State Management**: Provider or Riverpod (or other state management solutions used in the app)
 - **Deployment**: Supports Android and iOS deployment
 
-(assets/images/Simulator Screenshot - iPhone 15 Pro Max - 2024-07-18 at 16.08.40.png)
+assets/images/img1.png
+assets/images/img2.png

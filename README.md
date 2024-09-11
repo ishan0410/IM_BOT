@@ -19,6 +19,6 @@ This is a ChatGPT clone built using Flutter, designed as a mobile application to
 - **NLP Model**: Integration with a GPT-based NLP model
 - **State Management**: Provider or Riverpod (or other state management solutions used in the app)
 - **Deployment**: Supports Android and iOS deployment
-
-assets/images/img1.png
-assets/images/img2.png
+![Alt Text](assets/images/img1.png)
+(assets/images/img1.png)
+(assets/images/img2.png)

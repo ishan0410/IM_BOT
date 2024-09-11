@@ -21,9 +21,7 @@ This is a ChatGPT clone built using Flutter, designed as a mobile application to
 - **Deployment**: Supports Android and iOS deployment
 
 
-
-![Alt Text](assets/images/img1.png)
-<img src="assets/images/img1.png" alt="Simulator Screenshot" width="40"/>
+<img src="assets/images/img1.png" alt="Simulator Screenshot" width="200" height="200"/>
 
 ![Alt Text](assets/images/img2.png)
 
